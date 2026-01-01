@@ -1,0 +1,9 @@
+[project]
+name = "crew-project"
+version = "0.1.0"
+description = "Minimal pyproject for CREW to satisfy crewai run"
+authors = ["Anupama S <anupama@example.com>"]
+
+[tool.crewai]
+# Minimal placeholder config for crewai — extend if crew needs specific fields
+enabled = true
